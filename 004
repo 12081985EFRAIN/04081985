@@ -1,7 +1,21 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX BOLIVIA
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hddjj2stcqhr.png"group-title="",BBN Spanish
+https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+#EXTINF:-1 tvg-logo="https://devocionalesenlinea.org/wp-content/uploads/2020/09/devo.jpg"group-title="",Devocionales en linea
+https://stream2.emisorasvirtuales.com/proxy/enlinea/stream
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/el-sonido-de-la-vida-la-paz.png"group-title="",El Sonido de la VIDA 89.3 LP
+https://cloudstream2032.conectarhosting.com/9580/stream/1/
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e61c6446eb0c403397509c94bb225d18~mv2.png"group-title="",RadioHF
+https://stream-47.zeno.fm/ufpfss4aguhvv?
+#EXTINF:-1 tvg-logo="https://cvclavoz.com/wp-content/uploads/2019/11/LogoLion4-1.png"group-title="",CVC LA VOZ
+https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/59c77d4484403b9e86b08af05fb786a4739ae3b9b7ab0289dc35b4d4eadf67cd/cvc2/cvc2/l_14734780_162621018_54207.aac
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/1216bca5ecbbcfa8b7ce545bc90454c9.jpg"group-title="",Radio Nuevo Tiempo
+https://cloudstream2030.conectarhosting.com:10871/stream
+#EXTINF:-1 tvg-logo=""group-title="",Bethel Radio
+http://96.31.83.86:8158/stream
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDO-MIX
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://grupocity.net.ar/wp-content/uploads/2022/10/captura2.png"group-title="",Ciudad Mágica Radio
 https://sonidosenlared.fullstreaming.ar/8002/stream
@@ -167,23 +181,3 @@ http://62.210.129.76:7940/;?t=1546815480
 http://198.50.206.239:8006/;?t=1546817068
 #EXTINF:-1 tvg-logo=""group-title="",Radio Festiva
 http://s6.jcwebnew.com:8070/stream?t=1546818258
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hddjj2stcqhr.png"group-title="",BBN Spanish
-https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e61c6446eb0c403397509c94bb225d18~mv2.png"group-title="",RadioHF
-https://stream-47.zeno.fm/ufpfss4aguhvv?
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/1216bca5ecbbcfa8b7ce545bc90454c9.jpg"group-title="",Radio Nuevo Tiempo
-https://cloudstream2030.conectarhosting.com:10871/stream
-#EXTINF:-1 tvg-logo=""group-title="",CVC La voz Cristian
-http://108.170.61.114:8240/;stream.nsv
-#EXTINF:-1 tvg-logo=""group-title="",Bethel Radio
-http://96.31.83.86:8158/stream
-#EXTINF:-1 tvg-logo=""group-title="",Radio Betania 93.7
-http://icecast.radiobetania.com:8000/betania.mp3?t=1546727627
-#EXTINF:-1 tvg-logo=""group-title="",Cristo Viene COCHABAMBA
-http://usa1.usastreams.com:8000/cbtsrl?t=1546728157
-#EXTINF:-1 tvg-logo=""group-title="",El Sonido de la VIDA 89.3
-http://server.streambolivia.com:9890/;?t=1546809597
-#EXTINF:-1 tvg-logo=""group-title="",Bendita trinidad 1540 AM
-http://195.154.182.222:25107/live?t=1546811669
-#EXTINF:-1 tvg-logo=""group-title="",La Cruz del Sur ORURO
-http://stm4.srvstm.com:23490/;?t=15468127537
